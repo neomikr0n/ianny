@@ -65,7 +65,7 @@ The config file is `$XDG_CONFIG_HOME/io.github.zer0_x.ianny/config.toml` or by d
 ```toml
 idle_timeout = 7
 short_break_timeout = 20
-long_break_tiemout = 64
+long_break_timeout = 64
 short_break_duration = 2
 long_break_duration = 7
 ```
